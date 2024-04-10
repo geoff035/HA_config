@@ -1,7 +1,7 @@
 {
   "routes": [
     {
-      "route_service_status": {
+      "route1": {
         "description": "Good Service",
         "timestamp": "2024-04-10T05:02:54.0490753+00:00"
       },
@@ -13,7 +13,7 @@
       "geopath": []
     },
     {
-      "route_service_status": {
+      "route2": {
         "description": "Good Service",
         "timestamp": "2024-04-10T05:02:54.0490753+00:00"
       },
@@ -25,7 +25,7 @@
       "geopath": []
     },
     {
-      "route_service_status": {
+      "route3": {
         "description": "Good Service",
         "timestamp": "2024-04-10T05:02:54.0490753+00:00"
       },
@@ -37,7 +37,7 @@
       "geopath": []
     },
     {
-      "route_service_status": {
+      "route4": {
         "description": "Good Service",
         "timestamp": "2024-04-10T05:02:54.0490753+00:00"
       },
@@ -49,7 +49,7 @@
       "geopath": []
     },
     {
-      "route_service_status": {
+      "route5s": {
         "description": "Good Service",
         "timestamp": "2024-04-10T05:02:54.0490753+00:00"
       },

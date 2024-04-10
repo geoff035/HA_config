@@ -1,0 +1,68 @@
+{
+  "routes": [
+    {
+      "route_service_status": {
+        "description": "Good Service",
+        "timestamp": "2024-04-10T05:02:54.0490753+00:00"
+      },
+      "route_type": 2,
+      "route_id": 2768,
+      "route_name": "Bendigo - Boort via Wedderburn",
+      "route_number": "",
+      "route_gtfs_id": "6-Bor",
+      "geopath": []
+    },
+    {
+      "route_service_status": {
+        "description": "Good Service",
+        "timestamp": "2024-04-10T05:02:54.0490753+00:00"
+      },
+      "route_type": 2,
+      "route_id": 5055,
+      "route_name": "Bendigo - Woomelang via Wedderburn & Charlton & Wycheproof & Birchip",
+      "route_number": "",
+      "route_gtfs_id": "6-BxW",
+      "geopath": []
+    },
+    {
+      "route_service_status": {
+        "description": "Good Service",
+        "timestamp": "2024-04-10T05:02:54.0490753+00:00"
+      },
+      "route_type": 2,
+      "route_id": 8561,
+      "route_name": "Huntly - Kangaroo Flat via Bendigo Station",
+      "route_number": "5",
+      "route_gtfs_id": "6-B05",
+      "geopath": []
+    },
+    {
+      "route_service_status": {
+        "description": "Good Service",
+        "timestamp": "2024-04-10T05:02:54.0490753+00:00"
+      },
+      "route_type": 2,
+      "route_id": 8564,
+      "route_name": "Bendigo Station - La Trobe University via Strathdale",
+      "route_number": "61",
+      "route_gtfs_id": "6-B61",
+      "geopath": []
+    },
+    {
+      "route_service_status": {
+        "description": "Good Service",
+        "timestamp": "2024-04-10T05:02:54.0490753+00:00"
+      },
+      "route_type": 2,
+      "route_id": 8565,
+      "route_name": "Bendigo Station - Spring Gully via La Trobe University",
+      "route_number": "62",
+      "route_gtfs_id": "6-B62",
+      "geopath": []
+    }
+  ],
+  "status": {
+    "version": "3.0",
+    "health": 1
+  }
+}

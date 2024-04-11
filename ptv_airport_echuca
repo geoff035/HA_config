@@ -6,7 +6,7 @@
       "arr": "13:08",
       "dep_ts": 31200,
       "arr_ts": 47280,
-      "trip_time": "05:20",
+      "trip_time": "",
       "connections": [
       {
         "service": "skybus to southern cross",
@@ -32,91 +32,71 @@
     },
     {
       "description": "tullamarine - sunbury - bendigo - echuca",
-      "dep": "11:35",
+      "dep": "11:02",
       "arr": "14:20",
-      "dep_ts": 31200,
-      "arr_ts": 47280,
-      "trip_time": "02:45",
+      "dep_ts": 39720,
+      "arr_ts": 51600,
+      "trip_time": "",
       "connections": [
       {
-        "service": "skybus to southern cross",
-        "dep": "08:40",
-        "arr": "09:15"
+        "service": "bus (479) to sunbury",
+        "dep": "11:02",
+        "arr": "11:32"
       },
       {
-        "service": "train to seymore",
-        "dep": "09:26",
-        "arr": "10:59"
+        "service": "train to bendigo",
+        "dep": "11:35",
+        "arr": "12:57"
       },
       {
-        "service": "bus to murchison",
-        "dep": "11:09",
-        "arr": "11:56"
-      },
-      {
-        "service": "bus to echuca",
-        "dep": "11:57",
-        "arr": "13:08"
+        "service": "train to echuca",
+        "dep": "13:10",
+        "arr": "14:20"
       }
       ]
     },
     {
       "description": "tullamarine - sunbury - bendigo - echuca",
-      "dep": "08:40",
+      "dep": "12:02",
       "arr": "15:38",
-      "dep_ts": 31200,
-      "arr_ts": 47280,
-      "trip_time": "03:03",
+      "dep_ts": 43320,
+      "arr_ts": 56280,
+      "trip_time": "",
       "connections": [
       {
-        "service": "skybus to southern cross",
-        "dep": "08:40",
-        "arr": "15:38"
+        "service": "bus (479) to sunbury",
+        "dep": "12:02",
+        "arr": "12:32"
       },
       {
-        "service": "train to seymore",
-        "dep": "09:26",
-        "arr": "10:59"
-      },
-      {
-        "service": "bus to murchison",
-        "dep": "11:09",
-        "arr": "11:56"
+        "service": "train to bendigo",
+        "dep": "12:35",
+        "arr": "13:57"
       },
       {
         "service": "bus to echuca",
-        "dep": "11:57",
-        "arr": "13:08"
+        "dep": "14:20",
+        "arr": "15:38"
       }
       ]
     },
     {
       "description": "tullamarine - sunbury - echuca",
-      "dep": "08:40",
+      "dep": "15:02",
       "arr": "18:11",
-      "dep_ts": 31200,
-      "arr_ts": 47280,
-      "trip_time": "02:34",
+      "dep_ts": 54120,
+      "arr_ts": 65460,
+      "trip_time": "",
       "connections": [
       {
-        "service": "skybus to southern cross",
-        "dep": "08:40",
-        "arr": "09:15"
+        "service": "bus (479) to sunbury",
+        "dep": "15:02",
+        "arr": "15:32"
       },
       {
-        "service": "train to seymore",
-        "dep": "09:26",
-        "arr": "10:59"
-      },
-      {
-        "service": "bus to murchison",
-        "dep": "11:09",
-        "arr": "11:56"
-      },
-      {
-        "service": "bus to echuca",
-        "dep": "11:57",
-        "arr": "13:08"
+        "service": "train to echuca",
+        "dep": "15:37",
+        "arr": "18:11"
       }
       ]
     },
@@ -124,29 +104,14 @@
       "description": "tullamarine - echuca",
       "dep": "18:25",
       "arr": "21:00",
-      "dep_ts": 31200,
-      "arr_ts": 47280,
-      "trip_time": "02:35",
+      "dep_ts": 66300,
+      "arr_ts": 75600,
+      "trip_time": "",
       "connections": [
       {
-        "service": "skybus to southern cross",
-        "dep": "08:40",
-        "arr": "15:38"
-      },
-      {
-        "service": "train to seymore",
-        "dep": "09:26",
-        "arr": "10:59"
-      },
-      {
-        "service": "bus to murchison",
-        "dep": "11:09",
-        "arr": "11:56"
-      },
-      {
         "service": "bus to echuca",
-        "dep": "11:57",
-        "arr": "13:08"
+        "dep": "18:25",
+        "arr": "21:00"
       }
       ]
     }

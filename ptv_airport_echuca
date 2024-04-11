@@ -1,7 +1,7 @@
 {
   "routes": [
     {
-      "description": "tullamarine - southern cross - seymore - meurchison - echuca, ",
+      "description": "tullamarine - southern cross - seymore - meurchison - echuca",
       "dep": "08:40",
       "arr": "13:08",
       "dep_ts": 31200,
@@ -31,52 +31,124 @@
       ]
     },
     {
-      "route2": {
-        "description": "Good Service",
-        "timestamp": "2024-04-10T05:02:54.0490753+00:00"
+      "description": "tullamarine - sunbury - bendigo - echuca",
+      "dep": "11:35",
+      "arr": "14:20",
+      "dep_ts": 31200,
+      "arr_ts": 47280,
+      "trip_time": "02:45",
+      "connections": [
+      {
+        "service": "skybus to southern cross",
+        "dep": "08:40",
+        "arr": "09:15"
       },
-      "route_type": 2,
-      "route_id": 5055,
-      "route_name": "Bendigo - Woomelang via Wedderburn & Charlton & Wycheproof & Birchip",
-      "route_number": "",
-      "route_gtfs_id": "6-BxW",
-      "geopath": []
+      {
+        "service": "train to seymore",
+        "dep": "09:26",
+        "arr": "10:59"
+      },
+      {
+        "service": "bus to murchison",
+        "dep": "11:09",
+        "arr": "11:56"
+      },
+      {
+        "service": "bus to echuca",
+        "dep": "11:57",
+        "arr": "13:08"
+      }
+      ]
     },
     {
-      "route3": {
-        "description": "Good Service",
-        "timestamp": "2024-04-10T05:02:54.0490753+00:00"
+      "description": "tullamarine - sunbury - bendigo - echuca",
+      "dep": "08:40",
+      "arr": "15:38",
+      "dep_ts": 31200,
+      "arr_ts": 47280,
+      "trip_time": "03:03",
+      "connections": [
+      {
+        "service": "skybus to southern cross",
+        "dep": "08:40",
+        "arr": "15:38"
       },
-      "route_type": 2,
-      "route_id": 8561,
-      "route_name": "Huntly - Kangaroo Flat via Bendigo Station",
-      "route_number": "5",
-      "route_gtfs_id": "6-B05",
-      "geopath": []
+      {
+        "service": "train to seymore",
+        "dep": "09:26",
+        "arr": "10:59"
+      },
+      {
+        "service": "bus to murchison",
+        "dep": "11:09",
+        "arr": "11:56"
+      },
+      {
+        "service": "bus to echuca",
+        "dep": "11:57",
+        "arr": "13:08"
+      }
+      ]
     },
     {
-      "route4": {
-        "description": "Good Service",
-        "timestamp": "2024-04-10T05:02:54.0490753+00:00"
+      "description": "tullamarine - sunbury - echuca",
+      "dep": "08:40",
+      "arr": "18:11",
+      "dep_ts": 31200,
+      "arr_ts": 47280,
+      "trip_time": "02:34",
+      "connections": [
+      {
+        "service": "skybus to southern cross",
+        "dep": "08:40",
+        "arr": "09:15"
       },
-      "route_type": 2,
-      "route_id": 8564,
-      "route_name": "Bendigo Station - La Trobe University via Strathdale",
-      "route_number": "61",
-      "route_gtfs_id": "6-B61",
-      "geopath": []
+      {
+        "service": "train to seymore",
+        "dep": "09:26",
+        "arr": "10:59"
+      },
+      {
+        "service": "bus to murchison",
+        "dep": "11:09",
+        "arr": "11:56"
+      },
+      {
+        "service": "bus to echuca",
+        "dep": "11:57",
+        "arr": "13:08"
+      }
+      ]
     },
     {
-      "route5s": {
-        "description": "Good Service",
-        "timestamp": "2024-04-10T05:02:54.0490753+00:00"
+      "description": "tullamarine - echuca",
+      "dep": "18:25",
+      "arr": "21:00",
+      "dep_ts": 31200,
+      "arr_ts": 47280,
+      "trip_time": "02:35",
+      "connections": [
+      {
+        "service": "skybus to southern cross",
+        "dep": "08:40",
+        "arr": "15:38"
       },
-      "route_type": 2,
-      "route_id": 8565,
-      "route_name": "Bendigo Station - Spring Gully via La Trobe University",
-      "route_number": "62",
-      "route_gtfs_id": "6-B62",
-      "geopath": []
+      {
+        "service": "train to seymore",
+        "dep": "09:26",
+        "arr": "10:59"
+      },
+      {
+        "service": "bus to murchison",
+        "dep": "11:09",
+        "arr": "11:56"
+      },
+      {
+        "service": "bus to echuca",
+        "dep": "11:57",
+        "arr": "13:08"
+      }
+      ]
     }
   ]
 }

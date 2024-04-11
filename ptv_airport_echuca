@@ -6,12 +6,29 @@
       "arr": "13:08",
       "dep_ts": 31200,
       "arr_ts": 47280,
-      "connections": {
-        "service": "skybus",
+      "trip_time": "05:20",
+      "connections": [
+      {
+        "service": "skybus to southern cross",
         "dep": "08:40",
-        "arr": "09:35"
+        "arr": "09:15"
       },
-      "geopath": []
+      {
+        "service": "train to seymore",
+        "dep": "09:26",
+        "arr": "10:59"
+      },
+      {
+        "service": "bus to murchison",
+        "dep": "11:09",
+        "arr": "11:56"
+      },
+      {
+        "service": "bus to echuca",
+        "dep": "11:57",
+        "arr": "13:08"
+      }
+      ]
     },
     {
       "route2": {
@@ -61,9 +78,5 @@
       "route_gtfs_id": "6-B62",
       "geopath": []
     }
-  ],
-  "status": {
-    "version": "3.0",
-    "health": 1
-  }
+  ]
 }

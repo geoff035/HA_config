@@ -6,7 +6,7 @@
       "arr": "13:08",
       "dep_ts": 31200,
       "arr_ts": 47280,
-      "trip_time": "",
+      "trip_time": "04:28",
       "connections": [
       {
         "service": "skybus to southern cross",
@@ -36,7 +36,7 @@
       "arr": "14:20",
       "dep_ts": 39720,
       "arr_ts": 51600,
-      "trip_time": "",
+      "trip_time": "03:18",
       "connections": [
       {
         "service": "bus (479) to sunbury",
@@ -61,7 +61,7 @@
       "arr": "15:38",
       "dep_ts": 43320,
       "arr_ts": 56280,
-      "trip_time": "",
+      "trip_time": "03:36",
       "connections": [
       {
         "service": "bus (479) to sunbury",
@@ -86,7 +86,7 @@
       "arr": "18:11",
       "dep_ts": 54120,
       "arr_ts": 65460,
-      "trip_time": "",
+      "trip_time": "03:09",
       "connections": [
       {
         "service": "bus (479) to sunbury",
@@ -106,7 +106,7 @@
       "arr": "21:00",
       "dep_ts": 66300,
       "arr_ts": 75600,
-      "trip_time": "",
+      "trip_time": "02:35",
       "connections": [
       {
         "service": "bus to echuca",

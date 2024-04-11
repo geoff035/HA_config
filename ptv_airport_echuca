@@ -6,6 +6,11 @@
       "arr": "13:08",
       "dep_ts": 31200,
       "arr_ts": 47280,
+      "connections": {
+        "service": "skybus",
+        "dep": "08:40",
+        "arr": "09:35",
+      },
       "geopath": []
     },
     {
